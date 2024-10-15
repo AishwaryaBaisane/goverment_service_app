@@ -6,7 +6,16 @@
 
 
 ## Pizza Hub.Com :
+- Add Dependencies
+Update your pubspec.yaml file to include the flutter_inappwebview package
 
+```dart
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_inappwebview: ^6.0.0
+
+```
 <img src ="https://github.com/user-attachments/assets/7d105453-802a-4abb-b312-678ecd297659" height = 25% width = 30%>
 <img src ="https://github.com/user-attachments/assets/ad5bf70d-acbc-44ff-91bc-fbb33aeb59e6" height = 25% width = 30%>
 
