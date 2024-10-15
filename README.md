@@ -23,6 +23,10 @@ dependencies:
 https://github.com/user-attachments/assets/5dadea34-8d69-434c-a602-6aae1d200460
 
 ## Search :
+```dart
+ String data = txtSearch.text;
+ search = data.obs;
+``
 https://github.com/user-attachments/assets/edb3333a-a6fe-436b-aab6-5d600f03120a
 
 
